@@ -66,5 +66,5 @@ The main objective of this project is to practice **Data Analysis, Exploratory D
 ##  Author
 
 **Ritik Thakur**  
-GitHub: `@ritikthakur23`
+GitHub: `@ritikthakur26`
 
